@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manasvi0828
-- 👀 I’m interested in ...learning atleast 3 programming languages with efficiency
-- 🌱 I’m currently learning ...programming in C
-- 💞️ I’m looking to collaborate on ...beginner projects in C 
+- 👀 I’m interested in ...AI and Machine Learning applications in real life
+- 🌱 I’m currently learning ...Data Structures and Algorithms + Artificial Intelligence and Machine Learning
+- 💞️ I’m looking to collaborate on ...AI-ML projects
 - 📫 How to reach me ...manasvisingh301@gmail.com
 
 <!---
